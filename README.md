@@ -9,6 +9,6 @@
 
 <div align="center">
 
-&copy; 2023 Nurul-GC | [BSD 3-Clause License](LICENSE.txt)
+&copy; 2023 Nurul-GC | [BSD 3-Clause License](LICENSE.txt) | &trade;ArtesGC Inc.
 
 </div>
