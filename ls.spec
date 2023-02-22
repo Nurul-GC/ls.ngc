@@ -1,4 +1,5 @@
 """
+BSD 3-Clause License
 Copyright (c) [2023], [Nurul-GC]
 All rights reserved.
 """
@@ -46,4 +47,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon="img/logo-256x256.ico",
 )
